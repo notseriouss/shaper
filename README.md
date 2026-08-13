@@ -23,8 +23,7 @@ Precompiled binaries are published on [GitHub Releases](placeholder).
 
 ### Building from source
 ```bash
-git clone [templater]
-cd [templater]
+git clone https://github.com/notseriouss/shaper.git && cd shaper
 cargo build --release
 ```
 
