@@ -68,7 +68,17 @@ shaper apply my-shell
 
 * CLI:
 ```bash
-placeholder
+Template manager
+
+Usage: shaper [COMMAND]
+
+Commands:
+  apply  Apply specific template(s)
+  list   List all defined templates
+  help   Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
 ```
 
 ## Configuration
