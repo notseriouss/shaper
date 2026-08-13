@@ -1,6 +1,4 @@
-<p align="center">
-    <a style="font-size: 40px;">Shaper</a>
-</p>
+<h1 align=center><code>Shaper</code></h1>
 
 <hr />
 
@@ -29,6 +27,9 @@ git clone [templater]
 cd [templater]
 cargo build --release
 ```
+
+### Nix
+> Repository contains flake.nix
 
 ## Quick Start
 > NOTE:
