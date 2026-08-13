@@ -17,6 +17,9 @@
 **Shaper** is a small and simple program for managing templates.
 It lets you organise your file templates all in one place and instantly bring them into your working directory.
 
+### Video Demo
+https://github.com/user-attachments/assets/318e70b0-b7e8-4d42-b446-23a0fc497e67
+
 ## Installation
 Precompiled binaries are published on [GitHub Releases](placeholder).
 
